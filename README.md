@@ -3,9 +3,11 @@ Fecha de entrega: 2 de diciembre de 2024
 Participantes del trabajo grupal: Xoralys Alva López, Germán Burgos, Sebastián Giménez, y Paulina Fernández
 
 Introducción 
+
 El presente informe detalla el proceso de análisis llevado a cabo en el marco del trabajo final del módulo de Actualización Técnica, centrado en el estudio del corpus Correspondencia: Virginia Woolf - Victoria Ocampo (Rara Avis, 2021). Este corpus, que recopila el intercambio epistolar entre dos figuras clave de la literatura y el pensamiento del siglo XX, ofrece una oportunidad para explorar las dinámicas discursivas presentes en un ámbito que transita de lo privado a lo público. Con el objetivo de realizar un análisis interdisciplinario, se seleccionaron herramientas digitales que permiten abordar el corpus desde diferentes perspectivas metodológicas y técnicas: Zotero, Voyant Tools, R, Recogito y GitHub. Este informe presenta los hallazgos principales, destacando las posibilidades que ofrecieron tales herramientas digitales para el análisis literario contemporáneo.
 
-Zotero
+Herramienta Zotero
+
 Organización y análisis de la correspondencia de Victoria Ocampo en Zotero
 
 Zotero, como gestor de referencias bibliográficas, permite organizar y analizar colecciones de documentos, incluyendo correspondencia. En este caso, se utilizó Zotero para organizar las cartas de Victoria Ocampo, facilitando su análisis posterior.
@@ -34,41 +36,55 @@ Facilidad de acceso:  Permite acceder rápidamente a cualquier carta y su inform
 Análisis de datos:  Las etiquetas y los metadatos facilitan el análisis de la correspondencia, permitiendo identificar patrones y tendencias.
 Reproducibilidad:  La organización en Zotero facilita la reproducibilidad de la investigación, ya que otros investigadores pueden acceder a la misma colección de cartas y metadatos.
 
-Reflexión final:
+Reflexión final del uso de Zotero: 
 
 Zotero es una herramienta valiosa para la investigación y el análisis de correspondencia. Su uso permite organizar, clasificar y analizar las cartas de forma eficiente, facilitando la comprensión de las relaciones, los temas y las emociones presentes en la correspondencia de Victoria Ocampo.
-Recogito
+
+Herramienta Recogito
+
 Análisis general del uso de Recogito en el corpus de cartas
-Recogito nos permitió realizar un trabajo de anotación (combinando herramientas de georreferenciación con anotaciones semánticas) e identificar, marcar y enriquecer un corpus de textos históricos con metadatos geoespaciales (se identificaron menciones geográficas en las cartas, referencias explícitas como ciudades o países. Estas anotaciones se complementaron con puntos geográficos), de personas (se anotaron los nombres propios mencionados en las cartas, incluyendo figuras relevantes del entorno personal y cultural de las escritoras. Este proceso nos permitió observar las redes sociales e intelectuales que conectaban a Ocampo y Woolf) y eventos (se destacaron las alusiones a eventos específicos, históricos o personales, que contextualizan la correspondencia dentro de un marco con dinámicas históricas y el trabajo intelectual de las escritoras). En conclusión, en esta parte del proyecto, trabajamos con tres cartas de la correspondencia entre Victoria Ocampo y Virginia Woolf. Un corpus en el que pudimos explorar, en los intercambios epistolares y sus referencias a lugares, personas y eventos, parte de la relación entre las escritoras con relación a su mutua admiración, la labor crítica y literaria, la labor editorial, y parte de sus ideas estéticas.   
+
+Recogito nos permitió realizar un trabajo de anotación (combinando herramientas de georreferenciación con anotaciones semánticas) e identificar, marcar y enriquecer un corpus de textos históricos con metadatos geoespaciales (se identificaron menciones geográficas en las cartas, referencias explícitas como ciudades o países. Estas anotaciones se complementaron con puntos geográficos), de personas (se anotaron los nombres propios mencionados en las cartas, incluyendo figuras relevantes del entorno personal y cultural de las escritoras. Este proceso nos permitió observar las redes sociales e intelectuales que conectaban a Ocampo y Woolf) y eventos (se destacaron las alusiones a eventos específicos, históricos o personales, que contextualizan la correspondencia dentro de un marco con dinámicas históricas y el trabajo intelectual de las escritoras). En conclusión, en esta parte del proyecto, trabajamos con tres cartas de la correspondencia entre Victoria Ocampo y Virginia Woolf. Un corpus en el que pudimos explorar, en los intercambios epistolares y sus referencias a lugares, personas y eventos, parte de la relación entre las escritoras con relación a su mutua admiración, la labor crítica y literaria, la labor editorial, y parte de sus ideas estéticas.  
+
 Resumen y detalle del marcado del corpus 
+
 Carta de Victoria Ocampo a Virginia Woolf 5 de diciembre de 1934
 Carta en Recogito
+
 La carta de Victoria Ocampo, enviada desde Londres, manifiesta su intención de prolongar su estadía para aprovechar encuentros significativos. Aunque reconoce la abundancia de personas interesantes en ciudades como Londres y París, destaca que pocas le aportan algo verdaderamente vital, como Virginia Woolf o André Malraux. Victoria Ocampo establece una conexión entre el “hambre” –entendida como deseo profundo de creación y sentido– y el impulso vital que caracteriza a figuras como Picasso, cuya “hambre” por la pintura refleja su autenticidad artística. Este concepto de "hambre" lo contrapone al "olvido del apetito" que se percibe en Europa. La carta concluye con un tono personal y cálido, proponiendo un encuentro privado y reflexionando sobre cómo Woolf le brinda una forma de ayuda trascendental, vinculada a su "presencia real".
+
 Lugares:
 Londres: representado como el espacio donde Victoria decide permanecer, enfatizando su conexión con el entorno cultural.
 Madrid: referido como el lugar donde planea publicar un libro, marcando la conexión entre su obra y el ámbito editorial.
 Europa (Francia, España, Italia): se menciona para reflexionar sobre el estado cultural y el contraste con su percepción de hambre vital.
+
 Personas:
 Virginia Woolf: referida como una presencia vital y fuente de inspiración.
 André Malraux: asociado a ese mismo dinamismo vital.
 Paul Valéry, Ana de Noailles, Drieu La Rochelle, Léon-Paul Fargue, Jean Giraudoux, y Paul Morand: sscritores que menciona, pero que no despiertan en Ocampo el mismo nivel de interés vital y creativo.
+
 Eventos:
 La publicación de un libro en Madrid.
 Conversaciones recientes con Woolf, donde reflexionaron sobre Katherine Mansfield.
 “Lo vital": una idea central que asocia con la intensidad creativa y el hambre que caracteriza tanto a los grandes artistas como a su propia búsqueda.
 "Hambre": metáfora clave que conecta su deseo artístico y existencial con la necesidad de experiencias auténticas y significativas.
+
 Carta de Virginia Woolf a Victoria Ocampo 22 de diciembre 1934
 Carta en Recogito
- Virginia Woolf escribe desde Monk’s House para responder a una carta de Victoria Ocampo, reflexionando sobre diversos temas relacionados con la crítica literaria, la escritura y la vida cotidiana. Woolf destaca su aprecio por la labor crítica de Ocampo, que describe como clara y precisa, y contrasta con las limitaciones que percibe en la ficción de Aldous Huxley. Expresa su interés por la lectura de autobiografías, señalando que pocas mujeres han escrito autobiografías veraces, y la alienta a continuar trabajando en sus proyectos críticos. Woolf manifiesta curiosidad por las actividades de Ocampo en París, preguntándole con quién se encuentra y cómo ocupa su tiempo. La carta concluye con referencias personales, incluyendo el reenvío de unos manuscritos de Ocampo y un apunte sobre las condiciones grises e invernales del paisaje inglés que rodea a Woolf.
+
+Virginia Woolf escribe desde Monk’s House para responder a una carta de Victoria Ocampo, reflexionando sobre diversos temas relacionados con la crítica literaria, la escritura y la vida cotidiana. Woolf destaca su aprecio por la labor crítica de Ocampo, que describe como clara y precisa, y contrasta con las limitaciones que percibe en la ficción de Aldous Huxley. Expresa su interés por la lectura de autobiografías, señalando que pocas mujeres han escrito autobiografías veraces, y la alienta a continuar trabajando en sus proyectos críticos. Woolf manifiesta curiosidad por las actividades de Ocampo en París, preguntándole con quién se encuentra y cómo ocupa su tiempo. La carta concluye con referencias personales, incluyendo el reenvío de unos manuscritos de Ocampo y un apunte sobre las condiciones grises e invernales del paisaje inglés que rodea a Woolf.
+
 Lugares:
 Monk’s House, Sussex: contexto desde donde Woolf escribe, con una descripción del paisaje inglés.
 París: lugar donde Ocampo se encuentra, lo que despierta la curiosidad de Woolf por sus actividades.
 Madrid: referido en relación con la procedencia de una carta de Ocampo.
 Avenida de la Bourdonnais: dirección a la que Woolf envía los manuscritos de Ocampo.
+
 Personas:
 Victoria Ocampo: destinataria de la carta, valorada por su trabajo crítico y mencionada en relación con sus proyectos y viajes.
 Aldous Huxley: escritor cuya obra Woolf comenta críticamente, diferenciando su aprecio por la mente del autor de su rechazo a ciertos aspectos de su ficción.
 Francis Birrell: amigo de Woolf, cuya enfermedad reciente es mencionada.
+
 Eventos:
 Recepción y comentario de los manuscritos de Ocampo.
 Reflexión sobre la velada compartida anteriormente en Londres, marcada por dificultades.
@@ -77,17 +93,22 @@ Lectura de autobiografías. Woolf menciona su interés por este género, alentan
 Labor crítica de Ocampo: Woolf admira el estilo incisivo y preciso de la crítica literaria de Ocampo.
 Manuscritos: referencia al envío de manuscritos de Ocampo, marcando un intercambio literario activo entre ambas.
 El deseo de Ocampo de un encuentro con Woolf porque su amistad le brinda la ayuda que la escritora argentina necesita. 
+
 Carta Victoria Ocampo a Virginia Woolf 16 de julio 1937
 Carta en Recogito
+
 Victoria Ocampo escribe a Virginia Woolf para compartir las noticias de su reciente conferencia sobre la obra de Woolf, la cual tuvo una recepción entusiasta por parte del público, evidenciada en la escucha atenta del público y en la venta de 400 ejemplares de Orlando. La conferencia, de 60 páginas, refleja su profunda admiración por Woolf, a quien considera una influencia central en su vida intelectual y literaria. La escritora argentina le ofrece detalles de su próximo trabajo con Stravisnky. Ocampo menciona también sus planes de viajar a París y posiblemente a Londres, donde espera poder visitarla. Además, informa que Sur, la revista que dirige, ha iniciado gestiones con Hogarth Press para adquirir los derechos de traducción de To the Lighthouse. La carta transmite tanto su compromiso con la divulgación de la obra de Woolf como la estrecha amistad entre ambas.
+
 Lugares:
 Buenos Aires: punto de partida desde el cual Ocampo desarrolla su labor de divulgación.
 París y Londres: ciudades mencionadas en relación con la actividad artística de Ocampo y su deseo de reencontrarse con Woolf.
 Tavistock Square: lugar donde Ocampo espera visitar en Londres a Woolf.
+
 Personas:
 Virginia Woolf: principal destinataria de la admiración y los esfuerzos críticos literarios de Ocampo para la divulgación y conocimiento de la obra de la escritora inglesa.
 André Gide: referido en relación con el poema Perséphone.
 Igor Stravinsky: mencionado por su colaboración en la musicalización de Perséphone y el trabajo en conjunto con Ocampo.
+
 Eventos:
 Conferencia de Ocampo sobre la obra de Woolf, que fue un éxito tanto en su impacto como en la venta de libros.
 Preparativos para una posible presentación de Perséphone en París y Londres.
@@ -96,13 +117,17 @@ Divulgación: la conferencia sobre Woolf evidencia el compromiso de Ocampo con l
 Labor editorial: la revista Sur y su interés en traducir To the Lighthouse resaltan su papel como mediadora cultural.
 Amistad Ocampo-Woolf: se refleja en el tono afectuoso y en el deseo de visitar a Woolf en Londres.
 Labor literaria y crítica: la escritura y presentación de la conferencia refuerzan el rol de Ocampo como intelectual y promotora de la literatura. 
+
 Reflexión final respecto del uso de Recogito
+
 El análisis realizado a partir de las cartas entre Victoria Ocampo y Virginia Woolf, apoyado en las herramientas de anotación geoespacial y semántica de Recogito, nos permitió descubrir diferentes conexiones entre los contextos personales, intelectuales y culturales de ambas escritoras. Este proceso fue más allá de la simple lectura de los textos ya que pudimos “leer” el corpus ofreció una forma de mapear y comprender las relaciones dinámicas entre lugares, personas y eventos mencionados en la correspondencia.
 Por un lado, la identificación de lugares, como Buenos Aires, Londres, París, Madrid, y Monk’s House resaltó las geografías de creación, encuentro e influencia literaria que dieron forma a la amistad, proyectos y deseos entre las escritoras. Por otro lado, el reconocimiento de personas, desde figuras claves como Aldous Huxley o André Gide, Stravisnky, André Malraux, Picasso, hasta amigos y colegas menos conocidos, nos permitió visualizar las redes intelectuales y sociales que ambas escritoras compartían. Asimismo, el análisis de eventos, como conferencias, publicaciones y colaboraciones, enmarca la correspondencia en una cronología de actividades literarias, artísticas y editoriales significativas, sobre todo desde la labor de Ocampo como divulgadora de la obra de Woolf. Elementos que no solo contextualizan la relación entre Woolf y Ocampo, sino que también reflejan temas centrales en sus intercambios: la admiración mutua, la labor crítica y literaria, la relación centro/periferia respecto de las ideas y estéticas literarias, el papel de Ocampo como mediadora cultural, y el interés por cuestiones editoriales.
 En conjunto, este trabajo no solo permitió una lectura profunda de las cartas, sino que también destacó el valor de las herramientas digitales para explorar textos históricos (incluso ampliando mucho más el corpus de cartas), enriqueciendo su interpretación con metadatos y nuevas perspectivas analíticas. Así, estas cartas no son solo testigos de una amistad literaria, sino también un registro de las dinámicas culturales de la época y sobre todo de la formación del campo editorial y literario en Argentina. 
 
-Voyant Tools
+Herramienta Voyant Tools
+
 Utilizamos Voyant Tools, una plataforma de análisis textual para explorar, visualizar y analizar en el corpus de correspondencia entre Victoria Ocampo y Virginia Woolf cómo se presenta una diferencia entre el estilo y tono empleado por las autoras, cómo evoluciona su relación en el periodo de intercambio epistolar y cómo se presentan diferencias idiomáticas y culturales.
+
 Detalle del proceso
 Preprocesamiento del texto:
 Objetivo: Limpiamos el word y ordenamos las cartas para realizar la comparación entre el estilo y tono, evaluar la evolución de la relación entre las autoras y las diferencias idiomáticas y culturales (eliminamos páginas preliminares, notas editoriales, presentaciones, índice).
@@ -117,7 +142,8 @@ Módulo utilizado: Context, nos permitió explorar cómo aparecen estas frases e
 Comparación de diferencias idiomáticas y culturales:
 Objetivo: Exploramos cómo se reflejan las diferencias culturales y el lenguaje entre Europa y Sudamérica.
 Módulos utilizados: Collocates Graph, que nos permitió visualizar palabras clave y sus conexiones con otras palabras en el texto, al mismo tiempo buscamos términos asociados con las culturas. Enlaces, es un gráfico de red que muestran las palabras clave en azul y las colocaciones o palabras relacionadas por proximidad en color naranja.
-Por qué usamos Voyant Tools
+
+¿Por qué usamos Voyant Tools?
 Voyant Tools nos permitió explorar el corpus de correspondencia entre Victoria Ocampo y Virginia Woolf desde una perspectiva más profunda, revelando datos, patrones, temas y relaciones que podrían pasar desapercibidos en una lectura tradicional. Utilizar esta herramienta en el contexto epistolar nos permitió detectar frases recurrentes, así como expresiones características del género y el estilo único de cada autora (por ejemplo, los saludos y despedidas, como “Querida Victoria” o “Suya, Virginia Woolf”). Aportando así una visión detallada sobre cómo ambas autoras estructuran sus cartas. El módulo Context nos permitió rastrear cómo cambió la relación entre Ocampo y Woolf a lo largo del tiempo, desde una admiración inicial hasta una amistad más cercana y colaborativa, así como rasgos del lenguaje que reflejan tensiones culturales.
 Análisis de las visualizaciones generadas
 Realizar un análisis de la correspondencia entre Virginia Woolf y Victoria Ocampo para generar visualizaciones en Voyant Tools utilizando los módulos previamente descritos nos reveló patrones característicos del género epistolar y del estilo de ambas autoras.
@@ -161,7 +187,7 @@ Reflexión final en relación con el uso de la herramienta
 El análisis de la correspondencia entre Virginia Woolf y Victoria Ocampo utilizando Voyant Tools nos permitió profundizar en aspectos esenciales del lenguaje, el tono y las tensiones culturales reflejadas en sus cartas. A través de módulos como Phrases, Context y Collocates Graph, exploramos cómo cada autora construye su estilo epistolar, cómo evoluciona su relación desde la formalidad inicial hacia una amistad más cercana y cómo emergen las diferencias culturales e idiomáticas entre Europa y Sudamérica.
 Estos análisis destacan no solo los patrones discursivos propios del género epistolar, como saludos y despedidas, sino también las tensiones simbólicas entre el privilegio y la lucha, la modernidad y la tradición, y las perspectivas contrastantes de sus respectivos mundos. Este enfoque reveló una relación marcada por la admiración mutua, pero también por un diálogo constante entre culturas, con un lenguaje que oscila entre la distancia y la cercanía, el conflicto y la conexión. Voyant Tools no solo facilitó la visualización de estos patrones, sino que enriqueció nuestra comprensión de la complejidad de este intercambio epistolar único.
 
-R 
+Herramienta R 
 El uso de R para analizar el corpus de correspondencia entre Victoria Ocampo y Virginia Woolf permitió un abordaje sistemático y reproducible, combinando técnicas de procesamiento de texto, análisis temático y evaluación de “sentimientos” (sentiment analysis). Este análisis no solo facilitó la identificación de patrones discursivos, sino que también planteó reflexiones sobre el paso de la correspondencia del ámbito privado al público a través de su publicación para, posiblemente, pensar en problemáticas de género ancladas históricamente.
 Detalle del proceso
 Preprocesamiento del Texto:
@@ -200,31 +226,38 @@ get_nrc_sentiment() evaluó los sentimientos asociados a cada término relaciona
 dcast() (de reshape2) organizó los datos para construir una tabla que relacionó temas con sentimientos.
 heatmap() produjo un mapa de calor que mostró la intensidad de los sentimientos en cada temática, facilitando una interpretación visual compacta.
 ggplot2 generó un gráfico de barras agrupadas que comparó las frecuencias de sentimientos en cada temática, permitiendo observar si algún tema careció de asociación emocional.
+
 Reflexión sobre el uso de R
 El uso de R para este análisis combinó herramientas de procesamiento de texto, visualización y análisis estadístico. Este enfoque no solo facilitó la exploración de patrones lingüísticos y emocionales, sino que también permitió reflexionar sobre las dinámicas de la privatización y publicitación del discurso en contextos epistolares. Al cruzar las temáticas con los sentimientos, se detectaron conexiones inesperadas y se cuestionó si ciertos ejes discursivos, como la literatura o el género, fueron neutrales desde el punto de vista afectivo, o si todos los temas llevaron implícita una carga emocional en este corpus.
+
 Análisis de las Visualizaciones Generadas
 A continuación, se presenta un análisis detallado de las visualizaciones creadas con R para explorar el corpus de Correspondencia: Virginia Woolf - Victoria Ocampo. Estas visualizaciones permiten observar patrones lingüísticos, temáticos y emocionales presentes en las cartas, destacando tanto la estructura del discurso como las dimensiones afectivas implicadas.
+
 1. Nube de Palabras
 En la nube de palabras, los términos más destacados incluyen "Virginia", "Ocampo", "Woolf", "carta", "mujer", "obra" y "escribir". Estos resultados sugieren que el intercambio epistolar se centra en los temas relacionados con:
 La autorreferencialidad: los nombres propios de las autoras y términos como "carta" resaltan el carácter epistolar.
 La literatura: términos como "obra", "escribir" y "libros" refuerzan la conexión literaria que caracteriza su correspondencia.
 El género y la identidad: términos como "mujer" y "igualdad" indican una preocupación por cuestiones de género.
 La ausencia de palabras irrelevantes sugiere que el pre-procesamiento textual fue efectivo, eliminando ruido y enfocándose en los términos más significativos.
+
 2. Análisis de Sentimientos
 En el gráfico de barras del análisis de sentimientos, los sentimientos positivos y de confianza son los más frecuentes, seguidos de emociones como anticipación y alegría. Sin embargo, también hay una presencia significativa de negatividad, tristeza y miedo, lo que indica que la correspondencia refleja un rango diverso de emociones.
 Esto sugiere que las cartas no solo tratan temas intelectuales y literarios, sino también cuestiones personales y emocionales que abarcan desde optimismo hasta preocupaciones y conflictos.
+
 3. Frecuencia de Términos por Temática
 El gráfico de barras temáticas muestra que:
 Amistad: "carta" y "querida" son términos centrales, reforzando el carácter personal del intercambio.
 Literatura: los términos "libro", "escribir" y "obra" destacan la preocupación por la creación literaria.
 Género: "mujer" y "feminismo" subrayan un interés por las cuestiones de género y la igualdad.
 La visualización permite comparar la relevancia de cada término dentro de las temáticas y revela cómo estas se entrecruzan en el corpus.
+
 4. Cruce de Temáticas y Sentimientos (Barras Agrupadas)
 En el cruce entre temáticas y sentimientos, se observa que:
 Amistad: está asociada principalmente con sentimientos positivos como alegría y confianza, aunque también aparecen emociones negativas como tristeza y miedo.
 Género: está más balanceado, con una distribución de emociones positivas y negativas, lo que sugiere discusiones tanto optimistas como tensas.
 Literatura: tiende hacia sentimientos de anticipación y confianza, reflejando un enfoque en el futuro y la colaboración creativa.
 Este gráfico refuerza la idea de que todas las temáticas tienen una dimensión emocional y ninguna es completamente "neutral".
+
 5. Cruce de Temáticas y Sentimientos (Heatmap)
 El mapa de calor complementa la visualización anterior al mostrar de manera compacta la intensidad de cada sentimiento dentro de cada temática. Las categorías de confianza y positividad dominan en todas las temáticas, mientras que las emociones negativas (como tristeza y disgusto) son menos prominentes pero aún relevantes.
 Reflexión general
