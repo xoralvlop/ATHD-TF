@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+          <fileDesc>
+            <titleStmt>
+              <title>Victoria Ocampo:  Carta Victoria Ocampo a Virginia Woolf. 16 de julio 1937. </title>
+              <author>glsebal</author>
+            </titleStmt>
+            <publicationStmt>
+              <p><date>2024-11-24</date></p>             
+            </publicationStmt>
+            <sourceDesc>
+              <bibl source="https://recogito.pelagios.org/document/uv5dcinow281tf"/>
+              <biblStruct>
+                <monogr>
+                  <author>Victoria Ocampo</author>
+                  <title>Carta Victoria Ocampo a Virginia Woolf. 16 de julio 1937. </title>
+                  <imprint><date>16 de julio 1937</date></imprint>  
+                </monogr>
+              </biblStruct>
+            </sourceDesc>
+          </fileDesc>
+          <profileDesc>
+              <langUsage>
+                  <language ident="spa"/>
+                </langUsage>
+              <particDesc>
+                  <ab>
+          <listRelation>
+            <relation name="Compositor" active="recogito-a8aa96ae-3a9b-408b-966e-90feb1a19122" passive="recogito-61e34d0b-a622-4ad3-95b2-f55eb4d5948b"/><relation name="Labor_editarial/Ocampo" active="recogito-852025d2-7060-4b16-b19f-8c8d2512afce" passive="recogito-840a930f-9417-43ec-8578-4d8cd503dfb2"/><relation name="Labor_editarial/Ocampo" active="recogito-852025d2-7060-4b16-b19f-8c8d2512afce" passive="recogito-a563be77-813c-4b1b-a296-4ac74de96e4f"/><relation name="Ocampo/Música/Stravisnky" active="recogito-0916f785-8ee3-4099-9b2f-cb9760a17e94" passive="recogito-a8aa96ae-3a9b-408b-966e-90feb1a19122"/><relation name="Ocampo/Música/Stravisnky" active="recogito-0916f785-8ee3-4099-9b2f-cb9760a17e94" passive="recogito-0ca0728b-f7fc-49c8-97c3-ac01ce9df58e"/><relation name="Labor_editarial/Ocampo" active="recogito-d8267baf-9f9f-4e22-aa44-b7746d6bb87d" passive="recogito-6cd014bc-ef2c-4f0e-9699-5e05bb2304e3"/><relation name="Labor_editarial/Ocampo" active="recogito-53cdc201-e96f-4d08-b858-4aa05a04daba" passive="recogito-d8267baf-9f9f-4e22-aa44-b7746d6bb87d"/><relation name="Ocampo/conferencia/Woolf" active="recogito-63c21e48-2844-4e4b-a313-22e64ee16a18" passive="recogito-852025d2-7060-4b16-b19f-8c8d2512afce"/><relation name="Woolf" active="recogito-201bf5cb-4373-419d-908b-fc35425ea640" passive="recogito-a5d51be5-016b-473b-9d71-78244172ffcc"/><relation name="Ocampo/conferencia/Woolf" active="recogito-201bf5cb-4373-419d-908b-fc35425ea640" passive="recogito-5a5f0656-e90b-4c22-8515-8577a34f3dfb"/><relation name="Woolf/conferencia" active="recogito-5a5f0656-e90b-4c22-8515-8577a34f3dfb" passive="recogito-63c21e48-2844-4e4b-a313-22e64ee16a18"/><relation name="Fragmentos/Conferencia/Woolf" active="recogito-5a5f0656-e90b-4c22-8515-8577a34f3dfb" passive="recogito-a563be77-813c-4b1b-a296-4ac74de96e4f"/><relation name="Ocampo/Admiración_intelectual/Woolf" active="recogito-05302e3f-54a0-47a0-ad33-4bf0f938be32" passive="recogito-2deddcd6-6e23-4850-8f1d-6199ba0c4cdf"/><relation name="Compositor" active="recogito-61e34d0b-a622-4ad3-95b2-f55eb4d5948b" passive="recogito-66149550-3b68-45c8-98ad-650adb7f3d8f"/><relation name="Ocampo/Música/Stravisnky" active="recogito-0ca0728b-f7fc-49c8-97c3-ac01ce9df58e" passive="recogito-d4dce431-a002-4402-bd08-dfad1b90704a"/><relation name="Ocampo/Admiración_intelectual/Woolf" active="recogito-56b5a441-a2fb-4cbe-9fa4-49a0da03aae7" passive="recogito-05302e3f-54a0-47a0-ad33-4bf0f938be32"/><relation name="Ocampo" active="recogito-9a503ced-d2c4-441d-9089-18b35c8f74c4" passive="recogito-5a08aee5-03f0-4ca2-ad5e-30b1635ffd35"/><relation name="Conferencia/literatura" active="recogito-9a503ced-d2c4-441d-9089-18b35c8f74c4" passive="recogito-201bf5cb-4373-419d-908b-fc35425ea640"/><relation name="Ocampo/Amista/Woolf" active="recogito-9a503ced-d2c4-441d-9089-18b35c8f74c4" passive="recogito-56b5a441-a2fb-4cbe-9fa4-49a0da03aae7"/><relation name="Publicación/Woolf" active="recogito-6cd014bc-ef2c-4f0e-9699-5e05bb2304e3" passive="recogito-9e471a1e-61fe-44d8-b2a0-f2bc6617c94e"/>
+          </listRelation>
+        </ab>
+                </particDesc>
+              <settingDesc>
+                  <listPlace>
+          <place xml:id="http://sws.geonames.org/2988507">
+              <placeName>Paris</placeName>
+            </place><place xml:id="http://sws.geonames.org/2643743">
+              <placeName>London</placeName>
+            </place><place xml:id="http://sws.geonames.org/3433955">
+              <placeName>Buenos Aires F.D.</placeName>
+            </place><place xml:id="http://sws.geonames.org/3435910">
+              <placeName>Buenos Aires</placeName>
+            </place>
+        </listPlace>
+                </settingDesc>
+            </profileDesc>
+          <encodingDesc>
+            <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+            <classDecl>
+                <taxonomy>
+          <category xml:id="Literatura modernista">
+              <catDesc>Literatura modernista</catDesc>
+            </category><category xml:id="Argentina">
+              <catDesc>Argentina</catDesc>
+            </category><category xml:id="Viajes">
+              <catDesc>Viajes</catDesc>
+            </category><category xml:id="Admiración intelectual">
+              <catDesc>Admiración intelectual</catDesc>
+            </category><category xml:id="Premio Nobel literatura">
+              <catDesc>Premio Nobel literatura</catDesc>
+            </category><category xml:id="Cartas">
+              <catDesc>Cartas</catDesc>
+            </category><category xml:id="París">
+              <catDesc>París</catDesc>
+            </category><category xml:id="Stravisnky">
+              <catDesc>Stravisnky</catDesc>
+            </category><category xml:id="Amistad">
+              <catDesc>Amistad</catDesc>
+            </category><category xml:id="Difusión cultural">
+              <catDesc>Difusión cultural</catDesc>
+            </category><category xml:id="Múscio">
+              <catDesc>Múscio</catDesc>
+            </category><category xml:id="Escritoras">
+              <catDesc>Escritoras</catDesc>
+            </category><category xml:id="Compositor">
+              <catDesc>Compositor</catDesc>
+            </category><category xml:id="Músico">
+              <catDesc>Músico</catDesc>
+            </category><category xml:id="Impacto literario">
+              <catDesc>Impacto literario</catDesc>
+            </category><category xml:id="Labor editorial">
+              <catDesc>Labor editorial</catDesc>
+            </category><category xml:id="Escritor">
+              <catDesc>Escritor</catDesc>
+            </category><category xml:id="To the Lighthouse">
+              <catDesc>To the Lighthouse</catDesc>
+            </category><category xml:id="Londres">
+              <catDesc>Londres</catDesc>
+            </category><category xml:id="Director de orquesta">
+              <catDesc>Director de orquesta</catDesc>
+            </category><category xml:id="Victoria Ocampo">
+              <catDesc>Victoria Ocampo</catDesc>
+            </category><category xml:id="Buenos Aires">
+              <catDesc>Buenos Aires</catDesc>
+            </category><category xml:id="Conferencia">
+              <catDesc>Conferencia</catDesc>
+            </category><category xml:id="Difusión literaria">
+              <catDesc>Difusión literaria</catDesc>
+            </category><category xml:id="Escritora">
+              <catDesc>Escritora</catDesc>
+            </category><category xml:id="Derechos de traducción">
+              <catDesc>Derechos de traducción</catDesc>
+            </category><category xml:id="Revista Sur">
+              <catDesc>Revista Sur</catDesc>
+            </category><category xml:id="Libro">
+              <catDesc>Libro</catDesc>
+            </category><category xml:id="Francia">
+              <catDesc>Francia</catDesc>
+            </category><category xml:id="Leonard Woolf">
+              <catDesc>Leonard Woolf</catDesc>
+            </category><category xml:id="Música y poesía">
+              <catDesc>Música y poesía</catDesc>
+            </category><category xml:id="Música">
+              <catDesc>Música</catDesc>
+            </category><category xml:id="Virginia Woolf">
+              <catDesc>Virginia Woolf</catDesc>
+            </category><category xml:id="Editorial">
+              <catDesc>Editorial</catDesc>
+            </category><category xml:id="Relación intelectual">
+              <catDesc>Relación intelectual</catDesc>
+            </category><category xml:id="Perséphone">
+              <catDesc>Perséphone</catDesc>
+            </category><category xml:id="Crítica literaria">
+              <catDesc>Crítica literaria</catDesc>
+            </category><category xml:id="Orlando">
+              <catDesc>Orlando</catDesc>
+            </category><category xml:id="Cosmopilitismo">
+              <catDesc>Cosmopilitismo</catDesc>
+            </category><category xml:id="Literatura">
+              <catDesc>Literatura</catDesc>
+            </category><category xml:id="Sur">
+              <catDesc>Sur</catDesc>
+            </category>
+        </taxonomy>
+              </classDecl>
+          </encodingDesc>
+        </teiHeader>
+        <text>
+          <body><div><p><rs xml:id="recogito-5667b54e-5f70-4ee3-b0df-e7415990b7a4" type="event" ana="#Victoria Ocampo #Revista Sur #Literatura #Labor editorial">﻿SUR</rs><note target="recogito-5667b54e-5f70-4ee3-b0df-e7415990b7a4" resp="glsebal">&quot;Sur&quot; fue una revista literaria fundada por Victoria Ocampo en 1931 en Buenos Aires. Esta publicación desempeñó un papel fundamental en la promoción de la literatura argentina y latinoamericana, y en su página se publicaron trabajos de escritores clave como Jorge Luis Borges, Octavio Paz, y la misma Ocampo.
+https://es.wikipedia.org/wiki/Sur_(revista)</note> - DIRIGIDA POR <persName xml:id="recogito-9a503ced-d2c4-441d-9089-18b35c8f74c4" ana="#Victoria Ocampo #Escritora #Cosmopilitismo">VICTORIA OCAMPO</persName>
+REVISTA MENSUAL- <placeName ref="http://sws.geonames.org/3433955" xml:id="recogito-7b24fe06-0f3a-44ab-8b04-f3b89c714c7c" ana="#Victoria Ocampo #Virginia Woolf #Revista Sur #To the Lighthouse #Orlando #Buenos Aires #Argentina #Escritora" cert="high">CALLE VIAMONTE N° 848 - BUENOS AIRES</placeName><note target="recogito-7b24fe06-0f3a-44ab-8b04-f3b89c714c7c" resp="glsebal">La dirección &quot;Calle Viamonte N° 848 - Buenos Aires&quot; mencionada al inicio de esta carta tiene relación con SUR, la revista literaria dirigida por Victoria Ocampo. Este lugar era la sede de la revista, un espacio emblemático para la literatura y la cultura argentina e internacional durante el siglo XX.
+
+En este contexto, la dirección indica el vínculo institucional de Victoria con SUR, desde donde coordinaba proyectos como la difusión de autores internacionales, incluida Virginia Woolf. También refuerza el rol de Victoria como mediadora cultural, promocionando obras literarias como Orlando y gestionando derechos de traducción, como se menciona al final de la carta con referencia a To the Lighthouse. La mención de Viamonte 848 subraya la importancia de Buenos Aires como un centro literario y el papel activo de Victoria en este ámbito.</note>
+DIRECCIÓN CABLEGRÁFICA VIC VIC <placeName ref="http://sws.geonames.org/3435910" xml:id="recogito-4c755342-6424-4e6a-987d-712d44765579" ana="#Buenos Aires #Victoria Ocampo #Revista Sur" cert="high">BUENOS AIRES</placeName><note target="recogito-4c755342-6424-4e6a-987d-712d44765579" resp="glsebal">Buenos Aires&quot; mencionada al inicio de esta carta tiene relación con SUR, la revista literaria dirigida por Victoria Ocampo. Este lugar era la sede de la revista, un espacio emblemático para la literatura y la cultura argentina e internacional durante el siglo XX.</note></p><p></p><p>
+16 de julio[1]
+Mi querida <persName xml:id="recogito-201bf5cb-4373-419d-908b-fc35425ea640" ana="#Victoria Ocampo #Cartas #Escritora #Londres">Virginia</persName>:
+Hace bastante tiempo que no tengo noticias suyas y bastante tiempo también que no le escribo, lo que <rs xml:id="recogito-0a507b4a-aa7e-4477-b5cd-fe898da93607" type="event" ana="#Victoria Ocampo #Virginia Woolf #Amistad #Relación intelectual #Literatura">no me ha impedido pensar continuamente en usted</rs><note target="recogito-0a507b4a-aa7e-4477-b5cd-fe898da93607" resp="glsebal">La frase refleja el afecto y la admiración que Victoria Ocampo siente por Virginia Woolf, lo que resalta la profunda conexión personal e intelectual entre ambas. A pesar de la falta de correspondencia, Ocampo sigue pensando en Woolf y la tiene presente en su vida y en sus actividades, como lo demuestra en la conferencia que dio sobre sus libros. La frase subraya la importancia de la relación en la vida de Ocampo, más allá de la correspondencia formal.</note>. Pero esta vez no me he contentado en pensar en usted solamente: he obligado a mucha gente a acompañarme. He aquí cómo: <rs xml:id="recogito-5a5f0656-e90b-4c22-8515-8577a34f3dfb" type="event" ana="#Victoria Ocampo #Virginia Woolf #Literatura #Conferencia #Admiración intelectual #Impacto literario">he dado una conferencia</rs><note target="recogito-5a5f0656-e90b-4c22-8515-8577a34f3dfb" resp="glsebal">Victoria Ocampo menciona haber dado una conferencia sobre Virginia Woolf y sus libros, lo que demuestra su compromiso con la difusión del pensamiento y la obra de Woolf en su entorno. La conferencia no solo resalta su admiración por Woolf, sino que también subraya el impacto que sus escritos tienen en el público, como se evidencia por el interés que suscitó y las invitaciones que recibió para repetirla. Esto también refleja la creciente relevancia de Woolf en los círculos literarios internacionales.</note> sobre <persName xml:id="recogito-a5d51be5-016b-473b-9d71-78244172ffcc" ana="#Virginia Woolf #Escritora">usted</persName><note target="recogito-a5d51be5-016b-473b-9d71-78244172ffcc" resp="glsebal">Virginia Woolf</note>, sobre sus libros. Esta conferencia ha durado una hora y cuarenta minutos… Como ve, no anduve con rodeos. Con gran sorpresa, los he leído… ¡<rs xml:id="recogito-63c21e48-2844-4e4b-a313-22e64ee16a18" type="event" ana="#Victoria Ocampo #Virginia Woolf #Conferencia #Difusión literaria #Literatura #Crítica literaria">El público se interesó</rs><note target="recogito-63c21e48-2844-4e4b-a313-22e64ee16a18" resp="glsebal">&quot;El público se interesó&quot; resalta el éxito de la conferencia que Victoria Ocampo impartió sobre Virginia Woolf. La capacidad de captar la atención del público durante una hora y cuarenta minutos subraya la importancia de la figura de Woolf y la habilidad de Ocampo para comunicar su admiración y análisis sobre la autora. Este evento también destaca el creciente interés en la obra de Woolf fuera del ámbito británico, particularmente en Latinoamérica.</note> en lo que <persName xml:id="recogito-5a08aee5-03f0-4ca2-ad5e-30b1635ffd35" ana="#Victoria Ocampo #Revista Sur #Escritora #Buenos Aires">yo</persName><note target="recogito-5a08aee5-03f0-4ca2-ad5e-30b1635ffd35" resp="glsebal">Victoria Ocampo</note> le contaba durante una hora y cuarenta minutos! Hay que creer en los milagros. No se escucharon crujidos de sillas ni de otros ruidos siniestros que testimonian la impaciencia de un auditorio.
+En fin: las cosas se desarrollaron de la mejor manera posible. Al día siguiente de esta jornada memorable <rs xml:id="recogito-852025d2-7060-4b16-b19f-8c8d2512afce" type="event" ana="#Victoria Ocampo #Virginia Woolf #Conferencia #Literatura">recibí seis o siete invitaciones para repetir seis o siete veces la conferencia</rs><note target="recogito-852025d2-7060-4b16-b19f-8c8d2512afce" resp="glsebal">La frase &quot;recibí seis o siete invitaciones para repetir seis o siete veces la conferencia&quot; subraya el gran impacto que tuvo la conferencia de Victoria Ocampo sobre Virginia Woolf. Las múltiples invitaciones indican no solo el interés generado por la conferencia, sino también el reconocimiento que Ocampo obtuvo como conferencista y su capacidad para generar una demanda académica y literaria. Además, resalta la relevancia de la figura de Woolf en diversos círculos culturales y la reputación de Ocampo como mediadora de su obra en el ámbito hispanohablante.</note> en distintos lugares y <rs xml:id="recogito-840a930f-9417-43ec-8578-4d8cd503dfb2" type="event" ana="#Victoria Ocampo #Virginia Woolf #Conferencia #Literatura">400 ejemplares</rs><note target="recogito-840a930f-9417-43ec-8578-4d8cd503dfb2" resp="glsebal">La mención de los &quot;400 ejemplares&quot; vendidos de Orlando destaca el recibimiento de la obra en ese momento, impulsado por la conferencia de Victoria Ocampo. Este dato resalta el impacto que tuvo la conferencia no solo en el ámbito académico, sino también en la recepción pública de la obra de Virginia Woolf. Además, indica el interés por la literatura de Woolf en el público argentino o latinoamericano, impulsado por la labor de mediación y promoción de Ocampo.</note> de <rs xml:id="recogito-c607770f-68d8-4201-a0b4-c0d1ade0ff17" type="event" ana="#Libro #Virginia Woolf #Revista Sur #Cosmopilitismo">Orlando</rs><note target="recogito-c607770f-68d8-4201-a0b4-c0d1ade0ff17" resp="glsebal">&quot;Orlando&quot;  obra de Virginia Woolf que Victoria Ocampo promovió en su entorno cultural. Victoria menciona que, tras dar una conferencia sobre Virginia y sus libros, se vendieron 400 ejemplares de Orlando, destacando el impacto positivo que tuvo su presentación. Esto subraya el papel de Victoria como mediadora cultural y su compromiso con la difusión de la obra de Woolf en el ámbito hispanoamericano.
+
+Además, la referencia a Orlando refleja la admiración de Victoria por Woolf y su intención de conectar a su público con una literatura innovadora, mostrando cómo las ideas y estilos de Virginia resonaron en los círculos literarios impulsados por Ocampo.</note> que por fin acababa de aparecer han sido vendidos.
+Mi conferencia tiene, más o menos, 60 páginas. Hay dos que están bien y con las cuales estoy contenta. Es enorme, ¿no es cierto? ¿Tiene ganas de leerla? Si “sí”, <rs xml:id="recogito-a563be77-813c-4b1b-a296-4ac74de96e4f" type="event" ana="#Victoria Ocampo #Virginia Woolf #Conferencia #Literatura">le haré llegar algunos fragmentos (aquellos de los cuales no estoy demasiado insatisfecha) en francés.</rs><note target="recogito-a563be77-813c-4b1b-a296-4ac74de96e4f" resp="glsebal">Victoria Ocampo menciona su intención de enviar a Virginia Woolf fragmentos de su conferencia sobre Orlando, específicamente aquellos de los cuales está menos insatisfecha, y hacerlo en francés. Esto sugiere un proceso de autocrítica y selección rigurosa de lo que considera valioso o bien logrado en su exposición. También refleja su cuidado por mantener un alto estándar de calidad, eligiendo compartir con Woolf solo lo que ella considera digno de ser revisado por la autora. 
+
+</note>
+Mientras, envíeme alguna línea.
+<rs xml:id="recogito-0916f785-8ee3-4099-9b2f-cb9760a17e94" type="event" ana="#Victoria Ocampo #Stravisnky #Música y poesía">Iré</rs><note target="recogito-0916f785-8ee3-4099-9b2f-cb9760a17e94" resp="glsebal">Referencia: Victoria Ocampo</note> a <placeName ref="http://sws.geonames.org/2988507" xml:id="recogito-d70115a9-2564-40e1-9409-9112db676a9a" ana="#París #Francia #Victoria Ocampo #Viajes #Escritoras #Cosmopilitismo" cert="high">París</placeName><note target="recogito-d70115a9-2564-40e1-9409-9112db676a9a" resp="glsebal">En esta carta, París tiene relación con los planes futuros de Victoria Ocampo, quien menciona que visitará la ciudad en octubre. Su viaje a París está ligado a una colaboración artística con Igor Stravinsky, para interpretar Perséphone, el poema de André Gide musicalizado por el compositor, en un concierto en el nuevo teatro del Trocadero.
+
+Además, París se presenta como un punto de conexión cultural y social en la vida de Victoria, desde donde podría expandir sus actividades artísticas y literarias, como la posibilidad de llevar Perséphone también a Londres. Este contexto resalta la faceta cosmopolita y activa de Victoria como intelectual y promotora de la cultura en círculos internacionales.</note> en el mes de octubre. <persName xml:id="recogito-a8aa96ae-3a9b-408b-966e-90feb1a19122" ana="#Victoria Ocampo #Cosmopilitismo #Música #Stravisnky #Música y poesía">Stravisnky</persName><note target="recogito-a8aa96ae-3a9b-408b-966e-90feb1a19122" resp="glsebal">Ígor Fiódorovich Stravinski (en ruso: Игорь Фёдорович Стравинский; Oranienbaum, 17 de junio de 1882-Nueva York, 6 de abril de 1971) fue un compositor y director de orquesta ruso y uno de los músicos más importantes y trascendentales del siglo xx.
+https://es.wikipedia.org/wiki/%C3%8Dgor_Stravinski</note> quiere que yo haga <rs xml:id="recogito-f6762cad-be7b-44b5-82b7-616b9008185d" type="event" ana="#Victoria Ocampo #Stravisnky #Música #Perséphone #Música y poesía">Perséphone</rs><note target="recogito-f6762cad-be7b-44b5-82b7-616b9008185d" resp="glsebal">Victoria Ocampo menciona que Stravinsky le ha pedido que haga Perséphone, un poema de André Gide, en concierto con él en el nuevo teatro del Trocadero. Esta referencia no solo destaca una colaboración cultural de alto nivel entre la música y la literatura, sino también la relación cercana que Ocampo mantenía con figuras importantes de la cultura europea de la época. La obra Perséphone es conocida por su combinación de poesía y música, lo que subraya el interés de Ocampo en proyectos artísticos multidisciplinarios y su conexión con importantes intelectuales y artistas.</note> (el poema de <persName xml:id="recogito-bdab168f-da78-44fc-b3b8-502fac3e7bd5" ana="#Francia #Escritor #Premio Nobel literatura">André Gide</persName><note target="recogito-bdab168f-da78-44fc-b3b8-502fac3e7bd5" resp="glsebal">André Paul Guillaume Gide (París, 22 de noviembre de 1869-París, 19 de febrero de 1951) fue un escritor francés, ganador del Premio Nobel de Literatura en 1947.
+
+
+https://es.wikipedia.org/wiki/Andr%C3%A9_Gide</note> al que <persName xml:id="recogito-61e34d0b-a622-4ad3-95b2-f55eb4d5948b" ana="#Múscio #Compositor #Director de orquesta">él</persName><note target="recogito-61e34d0b-a622-4ad3-95b2-f55eb4d5948b" resp="glsebal">Ígor Stravinski</note> le ha puesto música) en concierto con <persName xml:id="recogito-66149550-3b68-45c8-98ad-650adb7f3d8f" ana="#Músico #Compositor #Director de orquesta #Cosmopilitismo">él</persName><note target="recogito-66149550-3b68-45c8-98ad-650adb7f3d8f" resp="glsebal">Ígor Stravinski</note> en el <placeName ref="http://sws.geonames.org/2988507" xml:id="recogito-0ca0728b-f7fc-49c8-97c3-ac01ce9df58e" ana="#Francia #Victoria Ocampo #Cosmopilitismo" cert="high">nuevo teatro del Trocadero</placeName><note target="recogito-0ca0728b-f7fc-49c8-97c3-ac01ce9df58e" resp="glsebal">El Teatro Nacional de Chaillot fue construido entre 1934 y 1937 por los hermanos Jean y Édouard Niermans para la Exposición de París de 1937 en el sitio del antiguo Palacio del Trocadero, una estructura construida para la Feria Mundial de París de 1878. 
+Hoy,  Teatro Nacional de Chaillot.
+
+
+https://es.wikipedia.org/wiki/Teatro_Nacional_de_Chaillot</note>. Si hubiera manera de repetir <rs xml:id="recogito-d4dce431-a002-4402-bd08-dfad1b90704a" type="event" ana="#Victoria Ocampo #Stravisnky #Música #Perséphone #Música y poesía">Perséphone</rs><note target="recogito-d4dce431-a002-4402-bd08-dfad1b90704a" resp="glsebal">Victoria Ocampo menciona que Stravinsky le ha pedido que haga Perséphone, un poema de André Gide, en concierto con él en el nuevo teatro del Trocadero. Esta referencia no solo destaca una colaboración cultural de alto nivel entre la música y la literatura, sino también la relación cercana que Ocampo mantenía con figuras importantes de la cultura europea de la época. La obra Perséphone es conocida por su combinación de poesía y música, lo que subraya el interés de Ocampo en proyectos artísticos multidisciplinarios y su conexión con importantes intelectuales y artistas.</note> en <placeName ref="http://sws.geonames.org/2643743" xml:id="recogito-0714a0cf-5cd4-4cda-b8e8-cbd40a4e5415" ana="#Victoria Ocampo #Virginia Woolf #Viajes #Cosmopilitismo" cert="low">Londres</placeName><note target="recogito-0714a0cf-5cd4-4cda-b8e8-cbd40a4e5415" resp="glsebal">En la carta, Londres tiene un doble significado: por un lado, es un lugar donde Victoria Ocampo espera encontrarse con Virginia Woolf, ya que menciona su deseo de &quot;tocar el timbre del 52 de Tavistock Square&quot;, la dirección de Woolf en la ciudad. Esto refleja el anhelo de un encuentro personal con la escritora inglesa, reforzando la conexión entre ambas figuras.
+
+Por otro lado, Londres también aparece como una posible sede para la interpretación de Perséphone, el proyecto artístico de Victoria con Igor Stravinsky. Esto subraya el carácter internacional de sus actividades culturales y su intención de integrar la escena artística londinense en sus proyectos. Londres, en este sentido, se convierte tanto en un espacio de amistad intelectual como en un escenario potencial para su colaboración artística.</note> eso sería cuestión mía. Pero aún sin <rs xml:id="recogito-2704c557-9b41-4807-b75b-d5ba38193fde" type="event" ana="#Victoria Ocampo #Stravisnky #Música #Perséphone #Música y poesía">Perséphone</rs><note target="recogito-2704c557-9b41-4807-b75b-d5ba38193fde" resp="glsebal">Victoria Ocampo menciona que Stravinsky le ha pedido que haga Perséphone, un poema de André Gide, en concierto con él en el nuevo teatro del Trocadero. Esta referencia no solo destaca una colaboración cultural de alto nivel entre la música y la literatura, sino también la relación cercana que Ocampo mantenía con figuras importantes de la cultura europea de la época. La obra Perséphone es conocida por su combinación de poesía y música, lo que subraya el interés de Ocampo en proyectos artísticos multidisciplinarios y su conexión con importantes intelectuales y artistas.</note> iré a <placeName ref="http://sws.geonames.org/2643743" xml:id="recogito-bf386263-e56f-4a5a-bf3f-8e0581d91626" ana="#Victoria Ocampo #Cosmopilitismo #Escritora #Viajes" cert="high">Londres</placeName><note target="recogito-bf386263-e56f-4a5a-bf3f-8e0581d91626" resp="glsebal">En la carta, Londres tiene un doble significado: por un lado, es un lugar donde Victoria Ocampo espera encontrarse con Virginia Woolf, ya que menciona su deseo de &quot;tocar el timbre del 52 de Tavistock Square&quot;, la dirección de Woolf en la ciudad. Esto refleja el anhelo de un encuentro personal con la escritora inglesa, reforzando la conexión entre ambas figuras.
+
+Por otro lado, Londres también aparece como una posible sede para la interpretación de Perséphone, el proyecto artístico de Victoria con Igor Stravinsky. Esto subraya el carácter internacional de sus actividades culturales y su intención de integrar la escena artística londinense en sus proyectos. Londres, en este sentido, se convierte tanto en un espacio de amistad intelectual como en un escenario potencial para su colaboración artística.</note>, sobre todo si usted estará allí y <rs xml:id="recogito-56b5a441-a2fb-4cbe-9fa4-49a0da03aae7" type="event" ana="#Victoria Ocampo #Virginia Woolf #Escritoras #Cosmopilitismo #Cartas">si usted me permite ir a tocar el timbre del 52 de Tavistock Square.</rs><note target="recogito-56b5a441-a2fb-4cbe-9fa4-49a0da03aae7" resp="glsebal">La frase &quot;si usted me permite ir a tocar el timbre del 52 de Tavistock Square&quot; refleja el deseo de Victoria Ocampo de visitar a Virginia Woolf en su casa en Londres. Este gesto, expresado con cortesía, muestra la admiración de Victoria hacia Woolf y su interés en fortalecer su relación personal y literaria. Tavistock Square era la dirección de Woolf en Londres y un lugar simbólico asociado con su vida y obra, lo que añade un componente íntimo y significativo a la propuesta.
+
+La frase también refuerza la conexión entre ambas mujeres como figuras intelectuales que compartían intereses literarios, así como la importancia de los encuentros cara a cara en una época en la que la correspondencia era el principal medio de comunicación a distancia.</note>
+He vivido zambullida en <rs xml:id="recogito-05302e3f-54a0-47a0-ad33-4bf0f938be32" type="event" ana="#Victoria Ocampo #Virginia Woolf #Literatura #Amistad #Admiración intelectual">sus libros</rs><note target="recogito-05302e3f-54a0-47a0-ad33-4bf0f938be32" resp="glsebal">Victoria Ocampo hace referencia a los libros de Virginia Woolf, mencionando que ha estado &quot;zambullida en sus libros&quot; durante las últimas semanas. Este comentario resalta la profunda admiración de Ocampo por el trabajo literario de Woolf, sugiriendo una conexión íntima con la obra de la autora. Ocampo no solo aprecia la escritura de Woolf, sino que también se identifica con sus ideas y temas, lo que refuerza la relación intelectual y personal entre ambas escritoras. Este vínculo literario también subraya la influencia significativa de Woolf en la literatura y el pensamiento de la época.</note> estas últimas semanas. Es como decirle cuánto usted vive en mí en este momento y <rs xml:id="recogito-2deddcd6-6e23-4850-8f1d-6199ba0c4cdf" type="event" ana="#Victoria Ocampo #Virginia Woolf #Admiración intelectual #Amistad #Conferencia #Literatura #Crítica literaria">cuánto la admiro</rs><note target="recogito-2deddcd6-6e23-4850-8f1d-6199ba0c4cdf" resp="glsebal">En esta expresión, Victoria Ocampo subraya su profunda admiración hacia Virginia Woolf, lo que refuerza el lazo emocional y profesional entre ambas escritoras. La admiración no solo refleja un respeto por el trabajo literario de Woolf, sino también un reconocimiento de su influencia en la vida y el pensamiento de Ocampo. Esta declaración subraya la importancia de la relación entre las dos, destacando la admiración de Ocampo no solo por la autora, sino por la persona misma, como modelo de intelectualidad y creatividad.</note>.
+Con amor
+<persName xml:id="recogito-53cdc201-e96f-4d08-b858-4aa05a04daba" ana="#Victoria Ocampo #Virginia Woolf #Amistad #Literatura">Victoria</persName><note target="recogito-53cdc201-e96f-4d08-b858-4aa05a04daba" resp="glsebal">Victoria Ocampo. 
+
+</note>
+P.S. <rs xml:id="recogito-d8267baf-9f9f-4e22-aa44-b7746d6bb87d" type="event" ana="#Victoria Ocampo #Revista Sur #Labor editorial #Literatura">Sur</rs><note target="recogito-d8267baf-9f9f-4e22-aa44-b7746d6bb87d" resp="glsebal">Revista Sur: fue una revista literaria fundada por Victoria Ocampo en 1931 en Buenos Aires. Esta publicación desempeñó un papel fundamental en la promoción de la literatura argentina y latinoamericana, y en su página se publicaron trabajos de escritores clave como Jorge Luis Borges, Octavio Paz, y la misma Ocampo. En el contexto de esta carta, &quot;Sur&quot; no solo se refiere a la revista, sino a la expresión de la influencia cultural de Ocampo en la región, demostrando su compromiso con la difusión del pensamiento literario internacional. El hecho de que la revista escribiera a Hogarth Press para solicitar los derechos de traducción de To the Lighthouse muestra el esfuerzo de Ocampo para traer el trabajo de Virginia Woolf a un público de habla hispana.</note> escribió a <rs xml:id="recogito-6cd014bc-ef2c-4f0e-9699-5e05bb2304e3" type="event" ana="#Editorial #Virginia Woolf #Leonard Woolf #Londres">Hogarth Press</rs><note target="recogito-6cd014bc-ef2c-4f0e-9699-5e05bb2304e3" resp="glsebal">Hogarth Press, editorial británica fundada en 1917 por Leonard y Virginia Woolf.
+
+
+https://es.wikipedia.org/wiki/Hogarth_Press</note> para los derechos de traducción de <rs xml:id="recogito-9e471a1e-61fe-44d8-b2a0-f2bc6617c94e" type="event" ana="#Virginia Woolf #Literatura modernista #Derechos de traducción #Sur #Difusión cultural">To the Lighthouse.</rs><note target="recogito-9e471a1e-61fe-44d8-b2a0-f2bc6617c94e" resp="glsebal">To the Lighthouse es una de las obras más importantes de Virginia Woolf, un pilar de la literatura modernista. Mencionada en la carta en relación con la solicitud de Sur para obtener los derechos de traducción, esta novela refleja el interés de Victoria Ocampo en difundir la obra de Woolf en el mundo de habla hispana, particularmente en Argentina. El hecho de que Ocampo se refiera a esta obra también resalta su admiración por la autora y su deseo de que más lectores puedan acceder a su literatura.</note></p><p>
+________________
+[1] La carta puede ser datada en 1937 gracias a la referencia que hace <persName xml:id="recogito-fb4f6d08-f2c6-4401-b894-a30a5223bfba" ana="#Victoria Ocampo #Virginia Woolf #Amistad #Literatura">Victoria</persName><note target="recogito-fb4f6d08-f2c6-4401-b894-a30a5223bfba" resp="glsebal">Victoria Ocampo. 
+
+</note> a su reciente conferencia sobre Virginia, ofrecida en Amigos del Arte el 7 de julio de ese año. [N. de T.]</p></div></body>
+        </text>
+      </TEI>

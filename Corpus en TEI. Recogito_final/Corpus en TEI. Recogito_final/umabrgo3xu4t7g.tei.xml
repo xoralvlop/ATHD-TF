@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+          <fileDesc>
+            <titleStmt>
+              <title>Virginia Woolf:  Carta de Virginia Woolf a Victoria Ocampo. 22 de diciembre 1934.</title>
+              <author>glsebal</author>
+            </titleStmt>
+            <publicationStmt>
+              <p><date>2024-11-24</date></p>             
+            </publicationStmt>
+            <sourceDesc>
+              <bibl source="https://recogito.pelagios.org/document/umabrgo3xu4t7g"/>
+              <biblStruct>
+                <monogr>
+                  <author>Virginia Woolf</author>
+                  <title>Carta de Virginia Woolf a Victoria Ocampo. 22 de diciembre 1934.</title>
+                  <imprint><date>22 de diciembre de 1934</date></imprint>  
+                </monogr>
+              </biblStruct>
+            </sourceDesc>
+          </fileDesc>
+          <profileDesc>
+              <langUsage>
+                  <language ident="spa"/>
+                </langUsage>
+              <particDesc>
+                  <ab>
+          <listRelation>
+            <relation name="Ocampo" active="recogito-592943cf-5d29-4d4e-9b41-f8fe5f605c25" passive="recogito-5064be1a-12bf-4b0a-b950-06c232a7f1a5"/><relation name="Escritor" active="recogito-18bd955e-7c9d-423c-a7fa-1150237c5ffb" passive="recogito-52e7d3b6-9f36-4496-a521-21596d1ae7e2"/><relation name="Escritor" active="recogito-52e7d3b6-9f36-4496-a521-21596d1ae7e2" passive="recogito-7d2b402a-161f-426e-8e46-4d5b608e4215"/><relation name="Woolf_valor_de_la_actividad_crítica_literaria_de_Ocampo" active="recogito-a0f52044-0795-4584-ad8b-8544faa39c01" passive="recogito-817e5aca-59aa-4ed9-9684-41f226328754"/><relation name="Ocampo" active="recogito-5064be1a-12bf-4b0a-b950-06c232a7f1a5" passive="recogito-219e037b-ac9d-4132-82a2-1910a057e43a"/><relation name="Woolf_valor_de_la_actividad_crítica_literaria_de_Ocampo" active="recogito-817e5aca-59aa-4ed9-9684-41f226328754" passive="recogito-5064be1a-12bf-4b0a-b950-06c232a7f1a5"/><relation name="Woolf_valor_de_la_actividad_crítica_literaria_de_Ocampo" active="recogito-817e5aca-59aa-4ed9-9684-41f226328754" passive="recogito-e957c1e1-98c7-4c6c-88e5-72ad7104f80a"/><relation name="relación_intelectual._Correspondencia" active="recogito-9ec862fd-a103-4aa3-ab74-f8f842f58b90" passive="recogito-a4dda07e-1ed1-4469-b889-7fb1b259d5c5"/><relation name="Personaje_literario" active="recogito-7d2b402a-161f-426e-8e46-4d5b608e4215" passive="recogito-92c14c92-f31a-4433-9f19-f443c0d12bce"/><relation name="Ocampo" active="recogito-d1288662-81ea-444e-b4e0-a70371f136d6" passive="recogito-592943cf-5d29-4d4e-9b41-f8fe5f605c25"/><relation name="Woolf_valor_de_la_actividad_crítica_literaria_de_Ocampo" active="recogito-4fff23ae-d22c-4671-b9d2-8a76a3c2cb60" passive="recogito-a4f85396-a07b-40e4-8e7e-7be4d89c4ef1"/>
+          </listRelation>
+        </ab>
+                </particDesc>
+              <settingDesc>
+                  <listPlace>
+          <place xml:id="http://sws.geonames.org/2643741">
+              <placeName>City of London</placeName>
+            </place><place xml:id="http://sws.geonames.org/2647218">
+              <placeName>Heathfield</placeName>
+            </place><place xml:id="http://sws.geonames.org/3117735">
+              <placeName>Madrid</placeName>
+            </place><place xml:id="http://sws.geonames.org/2988507">
+              <placeName>Paris</placeName>
+            </place><place xml:id="http://sws.geonames.org/2644559">
+              <placeName>Lewes</placeName>
+            </place><place xml:id="http://sws.geonames.org/6255150">
+              <placeName>South America</placeName>
+            </place>
+        </listPlace>
+                </settingDesc>
+            </profileDesc>
+          <encodingDesc>
+            <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+            <classDecl>
+                <taxonomy>
+          <category xml:id="Monk´s House">
+              <catDesc>Monk´s House</catDesc>
+            </category><category xml:id="Dramaturgo">
+              <catDesc>Dramaturgo</catDesc>
+            </category><category xml:id="Argentina">
+              <catDesc>Argentina</catDesc>
+            </category><category xml:id="Figura literaria">
+              <catDesc>Figura literaria</catDesc>
+            </category><category xml:id="Personaje literario">
+              <catDesc>Personaje literario</catDesc>
+            </category><category xml:id="Contrapunto">
+              <catDesc>Contrapunto</catDesc>
+            </category><category xml:id="Envío de manuscritos">
+              <catDesc>Envío de manuscritos</catDesc>
+            </category><category xml:id="Cartas">
+              <catDesc>Cartas</catDesc>
+            </category><category xml:id="Amistad">
+              <catDesc>Amistad</catDesc>
+            </category><category xml:id="Carta">
+              <catDesc>Carta</catDesc>
+            </category><category xml:id="Contexto cultural">
+              <catDesc>Contexto cultural</catDesc>
+            </category><category xml:id="London">
+              <catDesc>London</catDesc>
+            </category><category xml:id="Obra literaria">
+              <catDesc>Obra literaria</catDesc>
+            </category><category xml:id="Ciudad">
+              <catDesc>Ciudad</catDesc>
+            </category><category xml:id="Escritor">
+              <catDesc>Escritor</catDesc>
+            </category><category xml:id="Londres">
+              <catDesc>Londres</catDesc>
+            </category><category xml:id="Victoria Ocampo">
+              <catDesc>Victoria Ocampo</catDesc>
+            </category><category xml:id="Paris">
+              <catDesc>Paris</catDesc>
+            </category><category xml:id="Percepción cultural">
+              <catDesc>Percepción cultural</catDesc>
+            </category><category xml:id="Escritora">
+              <catDesc>Escritora</catDesc>
+            </category><category xml:id="Madrid">
+              <catDesc>Madrid</catDesc>
+            </category><category xml:id="Francia">
+              <catDesc>Francia</catDesc>
+            </category><category xml:id="Sud América">
+              <catDesc>Sud América</catDesc>
+            </category><category xml:id="Contexto social">
+              <catDesc>Contexto social</catDesc>
+            </category><category xml:id="Mujeres en la literatura">
+              <catDesc>Mujeres en la literatura</catDesc>
+            </category><category xml:id="Editora">
+              <catDesc>Editora</catDesc>
+            </category><category xml:id="Novela">
+              <catDesc>Novela</catDesc>
+            </category><category xml:id="Reflexión género-literatura">
+              <catDesc>Reflexión género-literatura</catDesc>
+            </category><category xml:id="Círculo de Bloomsbury">
+              <catDesc>Círculo de Bloomsbury</catDesc>
+            </category><category xml:id="Leonard Woolf">
+              <catDesc>Leonard Woolf</catDesc>
+            </category><category xml:id="Distancia cultural">
+              <catDesc>Distancia cultural</catDesc>
+            </category><category xml:id="Virginia Woolf">
+              <catDesc>Virginia Woolf</catDesc>
+            </category><category xml:id="Admiración">
+              <catDesc>Admiración</catDesc>
+            </category><category xml:id="Géneros literarios">
+              <catDesc>Géneros literarios</catDesc>
+            </category><category xml:id="Relación literaria">
+              <catDesc>Relación literaria</catDesc>
+            </category><category xml:id="Escritura por mujeres">
+              <catDesc>Escritura por mujeres</catDesc>
+            </category><category xml:id="Sudamérica">
+              <catDesc>Sudamérica</catDesc>
+            </category><category xml:id="Amigo de Woolf">
+              <catDesc>Amigo de Woolf</catDesc>
+            </category><category xml:id="Relación intelectual">
+              <catDesc>Relación intelectual</catDesc>
+            </category><category xml:id="Cosmopolitismo">
+              <catDesc>Cosmopolitismo</catDesc>
+            </category><category xml:id="Crítica literaria">
+              <catDesc>Crítica literaria</catDesc>
+            </category><category xml:id="Poeta">
+              <catDesc>Poeta</catDesc>
+            </category><category xml:id="Persona">
+              <catDesc>Persona</catDesc>
+            </category><category xml:id="Zona ruaral">
+              <catDesc>Zona ruaral</catDesc>
+            </category><category xml:id="Autobiografía">
+              <catDesc>Autobiografía</catDesc>
+            </category><category xml:id="Actividad literaria">
+              <catDesc>Actividad literaria</catDesc>
+            </category><category xml:id="Lectura">
+              <catDesc>Lectura</catDesc>
+            </category><category xml:id="Correspondencia">
+              <catDesc>Correspondencia</catDesc>
+            </category>
+        </taxonomy>
+              </classDecl>
+          </encodingDesc>
+        </teiHeader>
+        <text>
+          <body><div><p><rs xml:id="recogito-9103ba76-f79b-46e9-b5eb-9618d58876fd" type="event" ana="#Carta #Virginia Woolf #Virginia Woolf">﻿22 de diciembre 1934</rs><note target="recogito-9103ba76-f79b-46e9-b5eb-9618d58876fd" resp="glsebal">Fecha de escritura de la carta. 
+La carta fue escrita por Virginia Woolf el 22 de diciembre de 1934, desde Monk's House en Rodmell, Sussex. Esta fecha sitúa el contenido de la carta en un contexto cercano a las festividades navideñas y refleja el momento de la correspondencia entre Woolf y Victoria Ocampo.</note>
+<placeName ref="http://sws.geonames.org/2644559" xml:id="recogito-70a0810c-1ab1-4e44-9a17-de45ab4938a6" ana="#London #Londres #Monk´s House #Virginia Woolf #Leonard Woolf" cert="high">Monk's House, Rodmell, Lewes</placeName><note target="recogito-70a0810c-1ab1-4e44-9a17-de45ab4938a6" resp="glsebal">Monk's House se encuentra en el pueblo de Rodmell, cerca de Lewes, en el condado de Sussex Oriental, Inglaterra. Fue la residencia de la escritora Virginia Woolf y su esposo Leonard Woolf desde 1919. La casa es conocida por haber sido un refugio creativo para Virginia Woolf, quien escribió muchas de sus obras allí. Actualmente, es propiedad del National Trust y está abierta al público como museo.
+https://es.wikipedia.org/wiki/Monk%27s_House</note>, <placeName ref="http://sws.geonames.org/2647218" xml:id="recogito-6ec50028-5f8f-4819-ab73-84e65ffb0701" ana="#London #Londres #Monk´s House #Virginia Woolf" cert="high">Sussex</placeName><note target="recogito-6ec50028-5f8f-4819-ab73-84e65ffb0701" resp="glsebal">Sussex es un condado histórico ubicado en el sureste de Inglaterra. Está dividido en dos condados administrativos: East Sussex y West Sussex, además de incluir la ciudad de Brighton and Hove, que tiene un estatus unitario. Monk´s House se encuentra en East Sussex.
+https://commons.wikimedia.org/wiki/Category:East_Sussex</note></p><p>
+Querida <persName xml:id="recogito-d1288662-81ea-444e-b4e0-a70371f136d6" ana="#Victoria Ocampo #Escritora #Cosmopolitismo #Editora">Victoria:</persName><note target="recogito-d1288662-81ea-444e-b4e0-a70371f136d6" resp="glsebal">Victoria Ocampo: destinataria de la carta, una escritora, editora y promotora cultural argentina. Es mencionada tanto por su relación epistolar con Virginia Woolf como por su contribución al mundo literario a través de sus críticas y autobiografías.</note>
+<rs xml:id="recogito-1d328096-475e-4c53-b51d-770d7cb7d73b" type="event" ana="#Correspondencia #Cartas #Relación literaria">Le comenté lo mala que era yo escribiendo cartas</rs><note target="recogito-1d328096-475e-4c53-b51d-770d7cb7d73b" resp="glsebal">La escritura de cartas entre Virginia Woolf y Victoria Ocampo.
+ Woolf menciona que es mala escribiendo cartas y que ha tardado en responder a Victoria. Este evento refleja la relación epistolar entre ambas.</note>, y ahora me creerá, ya que han pasado dos semanas desde que me escribió. Pero <placeName ref="http://sws.geonames.org/2643741" xml:id="recogito-1a13a09b-0372-4b7f-83da-9e6a24629319" ana="#London #Londres #Virginia Woolf #Victoria Ocampo" cert="high">Londres</placeName> <rs xml:id="recogito-7f210da4-c374-4906-b789-bd68235b5d75" type="event" ana="#Amistad #Relación literaria #Londres #Contexto social">ha sido un caos</rs><note target="recogito-7f210da4-c374-4906-b789-bd68235b5d75" resp="glsebal">El caos de Londres y la enfermedad de Francis Birrel. 
+Woolf menciona que Londres ha sido caótico y hace referencia a la enfermedad de su amigo Francis Birrell, situando el contexto personal y social en el que escribe.</note>: un amigo [<persName xml:id="recogito-f188f4f5-12b2-493e-8325-2b45cb1a8eb8" ana="#Persona #Amigo de Woolf #Círculo de Bloomsbury">Francis Birrell</persName><note target="recogito-f188f4f5-12b2-493e-8325-2b45cb1a8eb8" resp="glsebal">Amigo de Virginia Woolf, mencionado brevemente en el texto en el contexto de su estado de salud. Birrell fue un librero y figura asociada al círculo de Bloomsbury.
+
+https://es.wikipedia.org/wiki/C%C3%ADrculo_de_Bloomsbury</note>] está muy enfermo, etc. etc. Ayer volvimos y <rs xml:id="recogito-9bfa1efb-1f32-4538-ae4a-9f6b0d7a775f" type="event" ana="#Lectura #Crítica literaria">lo primero que hice fue leer a</rs><note target="recogito-9bfa1efb-1f32-4538-ae4a-9f6b0d7a775f" resp="glsebal">Lectura de un libro de Aldous Huxley. 
+Woolf comparte que, tras regresar a Monk's House, lo primero que hizo fue leer un libro de Aldous Huxley, al que evalúa críticamente. Este evento resalta su papel como lectora y crítica literaria.</note> su [<persName xml:id="recogito-18bd955e-7c9d-423c-a7fa-1150237c5ffb" ana="#Persona #Escritor #Figura literaria">Aldous] Huxley</persName><note target="recogito-18bd955e-7c9d-423c-a7fa-1150237c5ffb" resp="glsebal">Escritor británico cuya obra es objeto de lectura y crítica en la carta. Woolf expresa admiración por su mente, aunque con reservas hacia su capacidad imaginativa en la ficción.
+https://es.wikipedia.org/wiki/Aldous_Huxley
+
+
+</note>; el otro. Me alegro tanto de que <persName xml:id="recogito-592943cf-5d29-4d4e-9b41-f8fe5f605c25" ana="#Victoria Ocampo #Escritora #Figura literaria #Cosmopolitismo">usted</persName><note target="recogito-592943cf-5d29-4d4e-9b41-f8fe5f605c25" resp="glsebal">Victoria Ocampo</note> <rs xml:id="recogito-a0f52044-0795-4584-ad8b-8544faa39c01" type="event" ana="#Crítica literaria #Admiración #Relación literaria">escriba crítica en vez de ficción.</rs><note target="recogito-a0f52044-0795-4584-ad8b-8544faa39c01" resp="glsebal">Preferencia por la crítica de Victoria Ocampo.
+ Virginia Woolf expresa su aprecio por el hecho de que Victoria Ocampo se dedique a la escritura crítica en lugar de la ficción. Woolf valora la calidad y claridad de su crítica, describiéndola como incisiva y precisa. Esto refleja la admiración que Woolf tenía por la capacidad analítica de Ocampo, además de subrayar las diferencias entre ambos géneros literarios en el contexto de su correspondencia.</note> Y <rs xml:id="recogito-817e5aca-59aa-4ed9-9684-41f226328754" type="event" ana="#Crítica literaria #Admiración #Relación intelectual">estoy segura de que es crítica de calidad, clara y aguda, incisiva,</rs><note target="recogito-817e5aca-59aa-4ed9-9684-41f226328754" resp="glsebal">Reconocimiento a la calidad de la crítica de Victoria Ocampo.
+ Virginia Woolf elogia la calidad de la crítica escrita por Victoria Ocampo, calificándola como clara, aguda e incisiva. Este comentario no solo resalta la habilidad de Ocampo como crítica literaria, sino que también refuerza la confianza que Woolf tenía en la capacidad de Ocampo para abordar textos de manera perspicaz y precisa. Este reconocimiento subraya el respeto intelectual mutuo en su relación epistolar.</note> como cortada con cuchillo, no con una podadora vieja y herrumbrosa. (Puedo ver una pasando por la pradera).
+Me gusta muchísimo la mente de <persName xml:id="recogito-52e7d3b6-9f36-4496-a521-21596d1ae7e2" ana="#Persona #Escritor #Figura literaria">Aldous</persName><note target="recogito-52e7d3b6-9f36-4496-a521-21596d1ae7e2" resp="glsebal">Aldous Huxley</note>: no así su imaginación. Es decir, cuando dice &quot;Yo, <persName xml:id="recogito-7d2b402a-161f-426e-8e46-4d5b608e4215" ana="#Persona #Escritor #Figura literaria">Aldous</persName><note target="recogito-7d2b402a-161f-426e-8e46-4d5b608e4215" resp="glsebal">Aldous Huxley</note> ... &quot; lo sigo: lo que no me gusta es el &quot;Yo, <rs xml:id="recogito-92c14c92-f31a-4433-9f19-f443c0d12bce" type="event" ana="#Obra literaria #Personaje literario #Novela #Contrapunto">Rampion</rs><note target="recogito-92c14c92-f31a-4433-9f19-f443c0d12bce" resp="glsebal">Personaje literario de la novela &quot;Contrapunto&quot; de Aldous Huxley .  Contrapunto (Point Counter Point) es una novela del escritor inglés Aldous Huxley publicada en 1928 y considerada por la crítica y por el propio autor como la más característica, ambiciosa y lograda de las cinco publicadas hasta la irrupción de &quot;Un mundo feliz&quot;
+https://es.wikipedia.org/wiki/Contrapunto_(novela)</note>...&quot; o sea cual fuere el nombre del personaje. Pero <persName xml:id="recogito-5064be1a-12bf-4b0a-b950-06c232a7f1a5" ana="#Victoria Ocampo #Escritora #Figura literaria #Cosmopolitismo">usted</persName><note target="recogito-5064be1a-12bf-4b0a-b950-06c232a7f1a5" resp="glsebal">Victoria Ocampo</note> ha dicho todo esto y más de un modo que me agrada. Espero que continúe con <persName xml:id="recogito-4f23bec3-269d-4d19-a275-298ca957efe2" ana="#Persona #Poeta #Figura literaria">Dante</persName><note target="recogito-4f23bec3-269d-4d19-a275-298ca957efe2" resp="glsebal">Referido en el contexto de la lectura crítica que Woolf espera que Victoria realice. Dante Alighieri es uno de los más grandes poetas de la literatura universal.
+https://es.wikipedia.org/wiki/Dante_Alighieri</note>, y luego con <persName xml:id="recogito-c56b6ff5-3c1f-4784-b778-652f3685c3c9" ana="#Figura literaria #Escritura por mujeres">Victoria Okampo</persName><note target="recogito-c56b6ff5-3c1f-4784-b778-652f3685c3c9" resp="pfernanz">Posible juego entre identidades personales y artísticas. Entre &quot;Victoria Ocampo&quot;, sujeto biográfico, y &quot;Victoria Okampo&quot;, sujeto intelectual, escritora femenina/feministsa. ¿Se trata de un error tipográfico o de una intencionlidad intelectual?</note>. <rs xml:id="recogito-e957c1e1-98c7-4c6c-88e5-72ad7104f80a" type="event" ana="#Autobiografía #Mujeres en la literatura #Crítica literaria #Reflexión género-literatura #Escritura por mujeres">Hasta ahora, muy pocas mujeres han escrito autobiografias veraces.</rs><note target="recogito-e957c1e1-98c7-4c6c-88e5-72ad7104f80a" resp="glsebal">Reflexión sobre las autobiografías femenina. 
+Virginia Woolf comenta que hasta el momento, pocas mujeres han escrito autobiografías que puedan considerarse veraces. Este comentario destaca su interés por las formas literarias y su perspectiva sobre la representación femenina en la literatura. Además, refleja una crítica al rol histórico de las mujeres en la escritura autobiográfica, un género que Woolf parece considerar valioso y poco explorado desde una óptica honesta por escritoras de su época.</note><note target="recogito-e957c1e1-98c7-4c6c-88e5-72ad7104f80a" resp="pfernanz">Woolf celebra la dedicación de Ocampo a la crítica en lugar de la ficción: &quot;Me alegro tanto de que usted escriba crítica en vez de ficción&quot;. Mención de la crítica de Dante y el potencial de una autobiografía de Ocampo.</note> <rs xml:id="recogito-4fff23ae-d22c-4671-b9d2-8a76a3c2cb60" type="event" ana="#Autobiografía #Lectura #Géneros literarios">Es mi forma favorita de lectura</rs><note target="recogito-4fff23ae-d22c-4671-b9d2-8a76a3c2cb60" resp="glsebal">Preferencia de Virginia Woolf por la autobiografía.
+ Virginia Woolf señala que la autobiografía es su forma favorita de lectura cuando no se encuentra en condiciones de abordar obras de mayor complejidad, como las de Shakespeare. Este comentario revela su afinidad personal por un género que permite el acceso íntimo a las experiencias y reflexiones individuales, lo cual coincide con su interés en explorar la subjetividad y la verdad en la literatura.</note> (quiero decir, cuando soy incapaz de un <persName xml:id="recogito-b9977478-7cad-416e-bdd4-2952c78d8d75" ana="#Persona #Francia #Dramaturgo #Figura literaria">Shakespeare</persName><note target="recogito-b9977478-7cad-416e-bdd4-2952c78d8d75" resp="glsebal">Mencionado como un modelo literario de referencia, aunque Woolf admite que no siempre tiene la capacidad de leerlo. William Shakespeare es uno de los más importantes escritores de la literatura inglesa y mundial.
+https://es.wikipedia.org/wiki/William_Shakespeare</note>, y una muy a menudo lo es). ¿Qué está haciendo en <placeName ref="http://sws.geonames.org/2988507" xml:id="recogito-16c52613-be4c-478e-b11e-7aee45075c7b" ana="#Paris #Francia #Victoria Ocampo #Virginia Woolf" cert="high">París</placeName><note target="recogito-16c52613-be4c-478e-b11e-7aee45075c7b" resp="glsebal">París aparece como un lugar donde se encuentra el destinatario, Victoria Ocampo. La escritora ,Virginia Woolf, expresa curiosidad sobre las actividades de Victoria en esta ciudad.</note>? No tengo idea. Cuando me encontré con <persName xml:id="recogito-219e037b-ac9d-4132-82a2-1910a057e43a" ana="#Victoria Ocampo #Escritora #Figura literaria #Cosmopolitismo">usted</persName><note target="recogito-219e037b-ac9d-4132-82a2-1910a057e43a" resp="glsebal">Victoria Ocampo</note> <rs xml:id="recogito-913c25be-1227-4bcd-a977-2d0fa4e45f42" type="event" ana="#Percepción cultural #Sudamérica #Distancia cultural #Virginia Woolf">me figuré una Sudamérica destartalada</rs><note target="recogito-913c25be-1227-4bcd-a977-2d0fa4e45f42" resp="glsebal">Percepción de Virginia Woolf sobre Sudamérica. 
+Virginia Woolf menciona que al pensar en Sudamérica, se imaginó un panorama &quot;destartalado&quot;. Este comentario puede interpretarse como una visión influenciada por estereotipos europeos de la época sobre la región, subrayando una percepción de desorden o precariedad. La frase refleja una distancia cultural y geográfica, así como posibles prejuicios, aunque también podría interpretarse como una impresión imaginada más que una afirmación informada.</note>, ¿pero qué hace una en <placeName ref="http://sws.geonames.org/2988507" xml:id="recogito-b177daa7-c309-42fb-9d2f-4a63251bf41d" ana="#Virginia Woolf #Victoria Ocampo #Paris #Francia" cert="high">París</placeName><note target="recogito-b177daa7-c309-42fb-9d2f-4a63251bf41d" resp="glsebal">París aparece como un lugar donde se encuentra el destinatario, Victoria Ocampo. La escritora ,Virginia Woolf, expresa curiosidad sobre las actividades de Victoria en esta ciudad.</note> de 10 a 4? <rs xml:id="recogito-9ec862fd-a103-4aa3-ab74-f8f842f58b90" type="event" ana="#Victoria Ocampo #Victoria Ocampo #Amistad">¿Con quién se encuentra? ¿Y por dónde pasea?</rs><note target="recogito-9ec862fd-a103-4aa3-ab74-f8f842f58b90" resp="glsebal">Curiosidad de Virginia Woolf sobre la vida de Victoria en París.
+ Virginia Woolf expresa curiosidad acerca de las actividades diarias de Victoria Ocampo en París, preguntándole con quién se encuentra y por dónde pasea. Este interés refleja una conexión personal y un deseo de imaginar la cotidianidad de su interlocutora en un contexto urbano que Woolf podría considerar culturalmente rico y estimulante. Las preguntas también sugieren un interés por detalles que humanizan la relación epistolar y refuerzan el vínculo entre ambas.</note> Y... pero no puedo hacer todas las preguntas que quiero que me responda. Aquí estamos grises y húmedos y muy ingleses: los niños cantan villancicos en el césped; las carretas pisotean las praderas anegadas repletas de nabos: es un pequeño paisaje gris y ondulado el mío, al otro lado de la ventana. Todavía sueño con su <placeName ref="http://sws.geonames.org/6255150" xml:id="recogito-a0a1f0ea-b418-42b2-970a-b376e8f1aa2b" ana="#Sud América #Argentina #Virginia Woolf #Victoria Ocampo" cert="high">América</placeName><note target="recogito-a0a1f0ea-b418-42b2-970a-b376e8f1aa2b" resp="glsebal">En la carta, América es mencionada como parte de las impresiones que la escritora tiene de Victoria. Específicamente, la autora menciona que al conocer a Victoria, se figuró &quot;una Sudamérica destartalada&quot;, lo que sugiere que asocia a Victoria con América del Sur, posiblemente debido a su origen o a conversaciones previas. Esto indica que América, particularmente Sudamérica, es un contexto importante en la percepción que tiene la escritora de su interlocutora. Además, alude a &quot;soñar con su América&quot;, lo que podría denotar una mezcla de fascinación e idealización del continente, o una curiosidad por la perspectiva que Victoria podría compartir sobre él.</note>. <rs xml:id="recogito-a4f85396-a07b-40e4-8e7e-7be4d89c4ef1" type="event" ana="#Crítica literaria #Escritora #Actividad literaria #Admiración">Espero que escriba un libro entero de crítica</rs><note target="recogito-a4f85396-a07b-40e4-8e7e-7be4d89c4ef1" resp="glsebal">Virginia Woolf a Victoria Ocampo: escribir un libro de crítica. 
+ Virginia Woolf manifiesta su apoyo e interés en que Victoria Ocampo dedique sus esfuerzos a la escritura de un libro completo de crítica literaria. Este comentario refuerza la valoración de Woolf hacia las capacidades críticas de Ocampo y demuestra su confianza en el talento y potencial de su amiga como ensayista. El gesto también refleja el énfasis de Woolf en la importancia del pensamiento crítico y la escritura reflexiva como contribuciones significativas a la literatura.</note> y que, si encuentra el tiempo, <rs xml:id="recogito-a4dda07e-1ed1-4469-b889-7fb1b259d5c5" type="event" ana="#Cartas #Amistad #Relación intelectual">me envíe de vez en cuando una carta.</rs><note target="recogito-a4dda07e-1ed1-4469-b889-7fb1b259d5c5" resp="glsebal">Virginia Woolf correspondencia con Victoria Ocampo.
+Virginia Woolf expresa su deseo de mantener una comunicación frecuente con Victoria Ocampo, solicitándole que le envíe cartas ocasionales. Este gesto evidencia la importancia que Woolf asigna a su relación epistolar con Ocampo, no solo como medio de intercambio intelectual, sino también como forma de sostener la amistad y el vínculo emocional entre ambas escritoras.</note>
+<rs xml:id="recogito-823b53e5-f4b7-4008-afa5-0471a4788aef" type="event" ana="#Contexto social #Contexto cultural">Sí, nuestra velada, nuestra velada turca, se vio muy perjudicada</rs><note target="recogito-823b53e5-f4b7-4008-afa5-0471a4788aef" resp="glsebal">Referencia a la velada turca. 
+Woolf menciona una &quot;velada turca&quot; que no tuvo el éxito esperado, atribuyéndolo a las dificultades en Londres. Este evento parece relacionado con un encuentro social o cultural.</note>. <rs xml:id="recogito-bb3b9f0d-442f-460b-8b1a-2cf726ed0fa3" type="event" ana="#London #Londres #Virginia Woolf #Victoria Ocampo #Zona ruaral #Ciudad">La culpa es de Londres.</rs><note target="recogito-bb3b9f0d-442f-460b-8b1a-2cf726ed0fa3" resp="glsebal">La frase &quot;La culpa es de Londres&quot; aparece en la carta como una justificación para los problemas que afectaron una velada que compartieron la escritora y Victoria. En el contexto, Londres se describe como un lugar caótico que interrumpió sus planes o impidió una experiencia plena durante su encuentro, tal vez debido a las demandas, el ritmo acelerado o los compromisos de la vida en la ciudad.
+
+Además, esta mención refuerza el contraste entre el entorno tranquilo y rural donde se encuentra la escritora (Rodmell, Sussex) y la vida urbana de Londres, un tema implícito en la carta que resalta diferencias entre ambos estilos de vida. Londres se presenta como un elemento externo que dificulta la serenidad o las conexiones personales profundas.</note>
+<persName xml:id="recogito-d5a2f8bc-19c3-45df-a54d-fec90afce15a" ana="#Escritora #Londres #Figura literaria">V.W.</persName><note target="recogito-d5a2f8bc-19c3-45df-a54d-fec90afce15a" resp="glsebal">Inicales de la escritora Virginia Woolf</note>
+<rs xml:id="recogito-eb4694eb-8b7d-4de9-a7d8-6b52d6f07917" type="event" ana="#Madrid #Londres #Cartas #Correspondencia">Su carta</rs><note target="recogito-eb4694eb-8b7d-4de9-a7d8-6b52d6f07917" resp="glsebal">Llegada de una carta desde Madrid. 
+Woolf menciona que recibió una carta de Victoria Ocampo desde Madrid, lo que indica un intercambio activo de correspondencia.</note> desde <placeName ref="http://sws.geonames.org/3117735" xml:id="recogito-f8b5903d-931d-43f3-be98-410f7e8a4873" ana="#Madrid #Virginia Woolf #Victoria Ocampo #Ciudad #Zona ruaral" cert="high">Madrid</placeName><note target="recogito-f8b5903d-931d-43f3-be98-410f7e8a4873" resp="glsebal">En la carta, Madrid se menciona en relación con una carta previa enviada por Victoria desde esta ciudad. La escritora comenta que esa carta acaba de llegar, lo que establece que Madrid fue una de las ubicaciones recientes de Victoria. Esto sugiere que Victoria ha estado viajando entre diferentes lugares (Madrid, París) durante el período en que intercambiaron correspondencia.  
+
+Además, la mención de Madrid refuerza la imagen de Victoria como una persona cosmopolita, vinculada tanto con Europa (París y Madrid) como con América del Sur, y subraya el contraste con el entorno más local y rural de la escritora en Sussex.</note> acaba de llegar y <rs xml:id="recogito-5c27b432-c2b3-42c7-808c-3d17fb7d32fa" type="event" ana="#Envío de manuscritos #Virginia Woolf #Victoria Ocampo #Actividad literaria">ayer le envié sus manuscritos</rs><note target="recogito-5c27b432-c2b3-42c7-808c-3d17fb7d32fa" resp="glsebal">Envío de manuscritos a París. 
+Woolf informa que envió manuscritos al número 15 de la Avenue de la Bourdonnais en París, lo que refleja la actividad literaria y editorial de ambas.</note> al número 15 de la <placeName ref="http://sws.geonames.org/2988507" xml:id="recogito-2a29c07a-67aa-43bc-bf3b-7cf5ca919f3a" ana="#Paris #Virginia Woolf #Victoria Ocampo #Ciudad" cert="high">Av. de la Bourdonaiss</placeName><note target="recogito-2a29c07a-67aa-43bc-bf3b-7cf5ca919f3a" resp="glsebal">La Avenue de la Bourdonnais se encuentra en el distrito 7 de París, Francia, cerca de la Torre Eiffel. Es una avenida elegante en un barrio conocido por su arquitectura clásica y su proximidad a importantes monumentos parisinos.
+
+La Avenue de la Bourdonnais se menciona en la carta como la dirección a la que la escritora envió los manuscritos de Victoria. Esto sugiere que Victoria estaba residiendo temporalmente en París, específicamente en esta avenida, o que tenía algún contacto o relación importante asociado a esa dirección. La mención concreta del &quot;número 15&quot; refuerza la conexión práctica y personal entre ambas, mostrando que el intercambio de ideas y materiales (en este caso, manuscritos) formaba parte de su relación intelectual. </note>. Espero que se los reenvíen. Le volvere, a escribir.</p></div></body>
+        </text>
+      </TEI>
